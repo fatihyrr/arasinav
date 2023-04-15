@@ -1,7 +1,7 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "Türkiye'de Cinsiyet ve Yaş Gruplarına Göre İntihar Verileri"
 author: 
-  - İsim Soyisim[^1]
+  - Fatih Yarar[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
@@ -32,32 +32,35 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 21080154, [Github Repo](https://github.com/fatihyrr/arasinav)
 
-# Vize Hakkında Önemli Bilgiler
 
-\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
-
-**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
-
-**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
-
-\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
 # Giriş
-Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
-
-
-Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir (doğal olarak ilk bölüm başlığı hariç). Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
+  İnsanlar hayatlarının bazı dönemlerinde psikolojik bunalımlar yaşayabilirler. Bu bunalımları birçok insan psikolojik destek alarak atlatabilir. Aile, arkadaş ve sosyal yaşam bu bunalımların üstesinden gelmede etkili olabilir. Ancak her insan bu psikolojik bunalımların üstesinden gelmeyi başaramaz ve hayatın acı gerçeği olan intiharla baş başa kalır ve kurtuluş yolu olarak hayatını sonlandırmayı seçer. Dünyada olduğu gibi ülkemizde de son yıllarda intihar sayılarının ve intihar hızının arttığını görmekteyiz . intiharların sebeplerine baktığımızda  öncelikle hastalık ,ülkemizin son dönemlerinde içinde bulunduğu ekonomik problemler ,aile içi sorunlar ,ergenlerde görülme olasılığı çok yüksek olan aşk acısı olmak üzere bilinmeyen birçok sebep bulunmaktadır. Cinsiyetlere baktığımızda ise bu oran kadın bireyler oranlar erkek daha fazla olduğu verilerde mevcuttur. Türkiye’de intiharla mücadele çalışmaları yapılmaktadır bu konuyla farkındalık yaratılmak istenmektedir ki bunun en güzel örneği 10 Eylül intiharla mücadele gününün olmasıdır STK lar bunalım yaşayan insanların intiharın bir çözüm yolu olmadığını anlatarak psikologlarla birlikte bu insanları topluma kazandırmayı hedeflemektedirler. Ben bu çalışmamda TÜİK’İN YAYINLADIĞI 2002-2021 YILLARI ARASINDA YAŞ GRUBU VE CİNSİYETE GÖRE İNTİHARLAR VERİ SETİNİ kullanarak 2002-2021 yılları arasındaki intiharların hangi yaş gruplarında ve cinsiyetleri de nasıl bir değişim yaşandığını gözlemleyip analiz edeceğim.
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+
+   2002-2021 yıllar arasında Türkiye’de yaşanan intihar vakalarının yaş grupları ve cinsiyetlere göre değişimlerini analiz edebilmeyi konu edinmiştir
+   
+   Ülkemizde son 20 yıldır gerçekleşen intiharlar üzerine birçok çalışma mevcut olup bu çalışmalar konuyla alakalı makaleleri veri setleri grafikleri dahilinde incelemeleri bu analizlere dahil etmeyi hedeflemektedir bununla birlikte Türkiye’deki intihar sayılarının ve hızlarının sosyodemografik açıdan incelemeyi ve sebeplerini kaynaklar ve veriler doğrultusunda istatiksel analiz yapabilmeyi amaçlanmıştır
 
 ## Literatür 
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
+
+ Ülkemizde gençler , yetişkinler ve yaşlılar arasında intihar oranları ve intihar hızı giderek artmaktadır. İntihar oranları ve hızları cinsiyet ve yaş gruplarına göre farklılık göstrebilir Cinsiyet Araştırma kapsamındaki yıllar için erkeklerin intihar hızı ile kadınların intihar hızı arasında anlamlı ölçüde fark vardır.(@kartal2022suicides) intiharların sebeplerine baktığımızda  öncelikle hastalık, ülkemizin son dönemlerinde içinde bulunduğu ekonomik problemler aile içi sorunlar ,ergenlerde görülme olasılığı çok yüksek olan aşk acısı olmak üzere bilinmeyen birçok sebep bulunmaktadır. (@alptekin2019turkiye)
+
+  Türkiye’deki 10 yıllık ortalamalara göre intihar,
+erkekler arasında en çok 15-24 ve 25-34 yaş grublarında meydana gelmiştir. Erkek intihar oranı 35-44
+ve 45-54 yaşlar arasında yaklaşık %2’lik azalma
+göstermektedir. 55 yaşından itibaren azalan bir eğilim söz
+konusudur.Türkiye’deki 10 yıllık ortalamalara göre intihar, kadınlar arasında en çok 15-24 yaş grubunda olmaktadır. Daha
+sonra 25-34 yaş grubu  gelmektedir. Türkiye’de
+kadınlarda en yüksek intihar oranının olduğu yaş grubu, 15-34
+yaş aralığıdır.(@aktacsturkiye) 
 
 
-**_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
+  Hayatına son veren kişinin yakınlarını, çevresini, toplumu derinden etkilemekle kalmayıp sağlık sistemleri için de yük oluşturmaktadır. İntihar zaman, mekân, yaş grubu, cinsiyet ve ırka göre büyük ölçüde değişen çok fazla faktörün etkileşimi ile ortaya çıkan karmaşık bir olgudur.(@yakar2017suicide)
+
 
 \newpage
 # Kaynakça {#references}
